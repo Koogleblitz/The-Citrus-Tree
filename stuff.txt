@@ -1,0 +1,10 @@
+# TOKEN (main)= OTU5ODkzMjEzMjA2OTM3NjIw.YkigNw.qOleYXPELILyDkFC3Wa2g5sQzpI
+# TOKEN2 (secondary (AI server))= OTU5ODk5NzYzOTEyODY3ODYw.YkimUQ.zXKtDgtKMjHTK7k_2s4ZYXqdyv0
+
+
+
+https://discord.com/api/oauth2/authorize?client_id=959899763912867860&permissions=517544078400&scope=bot
+
+
+
+UCR workshop: https://www.canva.com/design/DAE8kj5u234/-nEBygHPnTx5VSH4nmH-LA/view?utm_content=DAE8kj5u234&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#10
